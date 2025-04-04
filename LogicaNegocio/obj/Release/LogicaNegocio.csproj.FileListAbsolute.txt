@@ -1,0 +1,9 @@
+C:\Users\Joel\Desktop\Trabajo\ManejoDeArrays_APEv2\LogicaNegocio\bin\Release\LogicaNegocio.dll
+C:\Users\Joel\Desktop\Trabajo\ManejoDeArrays_APEv2\LogicaNegocio\bin\Release\LogicaNegocio.pdb
+C:\Users\Joel\Desktop\Trabajo\ManejoDeArrays_APEv2\LogicaNegocio\bin\Release\Entidades.dll
+C:\Users\Joel\Desktop\Trabajo\ManejoDeArrays_APEv2\LogicaNegocio\bin\Release\Entidades.pdb
+C:\Users\Joel\Desktop\Trabajo\ManejoDeArrays_APEv2\LogicaNegocio\obj\Release\LogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\Joel\Desktop\Trabajo\ManejoDeArrays_APEv2\LogicaNegocio\obj\Release\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Joel\Desktop\Trabajo\ManejoDeArrays_APEv2\LogicaNegocio\obj\Release\LogicaNe.53575492.Up2Date
+C:\Users\Joel\Desktop\Trabajo\ManejoDeArrays_APEv2\LogicaNegocio\obj\Release\LogicaNegocio.dll
+C:\Users\Joel\Desktop\Trabajo\ManejoDeArrays_APEv2\LogicaNegocio\obj\Release\LogicaNegocio.pdb

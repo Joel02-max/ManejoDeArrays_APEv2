@@ -1,0 +1,9 @@
+C:\Users\yelts\OneDrive\Documentos\PA\ManejoDeArrays_APEv2\ManejoDeArrays_APEv2\LogicaNegocio\bin\Debug\LogicaNegocio.dll
+C:\Users\yelts\OneDrive\Documentos\PA\ManejoDeArrays_APEv2\ManejoDeArrays_APEv2\LogicaNegocio\bin\Debug\LogicaNegocio.pdb
+C:\Users\yelts\OneDrive\Documentos\PA\ManejoDeArrays_APEv2\ManejoDeArrays_APEv2\LogicaNegocio\bin\Debug\Entidades.dll
+C:\Users\yelts\OneDrive\Documentos\PA\ManejoDeArrays_APEv2\ManejoDeArrays_APEv2\LogicaNegocio\bin\Debug\Entidades.pdb
+C:\Users\yelts\OneDrive\Documentos\PA\ManejoDeArrays_APEv2\ManejoDeArrays_APEv2\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\yelts\OneDrive\Documentos\PA\ManejoDeArrays_APEv2\ManejoDeArrays_APEv2\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\yelts\OneDrive\Documentos\PA\ManejoDeArrays_APEv2\ManejoDeArrays_APEv2\LogicaNegocio\obj\Debug\LogicaNe.53575492.Up2Date
+C:\Users\yelts\OneDrive\Documentos\PA\ManejoDeArrays_APEv2\ManejoDeArrays_APEv2\LogicaNegocio\obj\Debug\LogicaNegocio.dll
+C:\Users\yelts\OneDrive\Documentos\PA\ManejoDeArrays_APEv2\ManejoDeArrays_APEv2\LogicaNegocio\obj\Debug\LogicaNegocio.pdb

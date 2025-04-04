@@ -1,0 +1,6 @@
+C:\Users\yelts\OneDrive\Documentos\PA\ManejoDeArrays_APEv2\ManejoDeArrays_APEv2\Entidades\bin\Debug\Entidades.dll
+C:\Users\yelts\OneDrive\Documentos\PA\ManejoDeArrays_APEv2\ManejoDeArrays_APEv2\Entidades\bin\Debug\Entidades.pdb
+C:\Users\yelts\OneDrive\Documentos\PA\ManejoDeArrays_APEv2\ManejoDeArrays_APEv2\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\yelts\OneDrive\Documentos\PA\ManejoDeArrays_APEv2\ManejoDeArrays_APEv2\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\yelts\OneDrive\Documentos\PA\ManejoDeArrays_APEv2\ManejoDeArrays_APEv2\Entidades\obj\Debug\Entidades.dll
+C:\Users\yelts\OneDrive\Documentos\PA\ManejoDeArrays_APEv2\ManejoDeArrays_APEv2\Entidades\obj\Debug\Entidades.pdb

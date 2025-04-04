@@ -1,0 +1,6 @@
+C:\Users\Joel\Desktop\Trabajo\ManejoDeArrays_APEv2\Entidades\bin\Release\Entidades.dll
+C:\Users\Joel\Desktop\Trabajo\ManejoDeArrays_APEv2\Entidades\bin\Release\Entidades.pdb
+C:\Users\Joel\Desktop\Trabajo\ManejoDeArrays_APEv2\Entidades\obj\Release\Entidades.csproj.AssemblyReference.cache
+C:\Users\Joel\Desktop\Trabajo\ManejoDeArrays_APEv2\Entidades\obj\Release\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Joel\Desktop\Trabajo\ManejoDeArrays_APEv2\Entidades\obj\Release\Entidades.dll
+C:\Users\Joel\Desktop\Trabajo\ManejoDeArrays_APEv2\Entidades\obj\Release\Entidades.pdb
