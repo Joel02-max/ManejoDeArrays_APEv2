@@ -20,7 +20,7 @@ namespace Presentacion
         }
         private void FormEjercicio2_Load(object sender, EventArgs e)
         {
-            int n = 2; // Número de ecuaciones
+            int n = 3; // Número de ecuaciones
             ConfigurarDataGridView(dataGridViewMatrizA);
             // Limpiar cualquier dato previo en el DataGridView
             dataGridViewMatrizA.Columns.Clear();
