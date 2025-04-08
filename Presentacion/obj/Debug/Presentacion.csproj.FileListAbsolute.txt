@@ -27,3 +27,32 @@ C:\Users\yelts\OneDrive\Documentos\PA\ManejoDeArrays_APEv2\ManejoDeArrays_APEv2\
 C:\Users\yelts\OneDrive\Documentos\PA\ManejoDeArrays_APEv2\ManejoDeArrays_APEv2\Presentacion\obj\Debug\Presenta.BC77CD05.Up2Date
 C:\Users\yelts\OneDrive\Documentos\PA\ManejoDeArrays_APEv2\ManejoDeArrays_APEv2\Presentacion\obj\Debug\APE.exe
 C:\Users\yelts\OneDrive\Documentos\PA\ManejoDeArrays_APEv2\ManejoDeArrays_APEv2\Presentacion\obj\Debug\APE.pdb
+C:\Nueva carpeta\ManejoDeArrays_APEv2\Presentacion\bin\Debug\Documents\DocumentacionProyecto.pdf
+C:\Nueva carpeta\ManejoDeArrays_APEv2\Presentacion\bin\Debug\APE.exe.config
+C:\Nueva carpeta\ManejoDeArrays_APEv2\Presentacion\bin\Debug\APE.exe.manifest
+C:\Nueva carpeta\ManejoDeArrays_APEv2\Presentacion\bin\Debug\APE.application
+C:\Nueva carpeta\ManejoDeArrays_APEv2\Presentacion\bin\Debug\APE.exe
+C:\Nueva carpeta\ManejoDeArrays_APEv2\Presentacion\bin\Debug\APE.pdb
+C:\Nueva carpeta\ManejoDeArrays_APEv2\Presentacion\bin\Debug\CircularProgressBar.dll
+C:\Nueva carpeta\ManejoDeArrays_APEv2\Presentacion\bin\Debug\Entidades.dll
+C:\Nueva carpeta\ManejoDeArrays_APEv2\Presentacion\bin\Debug\LogicaNegocio.dll
+C:\Nueva carpeta\ManejoDeArrays_APEv2\Presentacion\bin\Debug\WinFormAnimation.dll
+C:\Nueva carpeta\ManejoDeArrays_APEv2\Presentacion\bin\Debug\Entidades.pdb
+C:\Nueva carpeta\ManejoDeArrays_APEv2\Presentacion\bin\Debug\LogicaNegocio.pdb
+C:\Nueva carpeta\ManejoDeArrays_APEv2\Presentacion\bin\Debug\CircularProgressBar.xml
+C:\Nueva carpeta\ManejoDeArrays_APEv2\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Nueva carpeta\ManejoDeArrays_APEv2\Presentacion\obj\Debug\Presentacion.FormBienvenida.resources
+C:\Nueva carpeta\ManejoDeArrays_APEv2\Presentacion\obj\Debug\Presentacion.FormMenu.resources
+C:\Nueva carpeta\ManejoDeArrays_APEv2\Presentacion\obj\Debug\Presentacion.FormEjercicio4.resources
+C:\Nueva carpeta\ManejoDeArrays_APEv2\Presentacion\obj\Debug\Presentacion.FormEjercicio3.resources
+C:\Nueva carpeta\ManejoDeArrays_APEv2\Presentacion\obj\Debug\Presentacion.FormEjercicio2.resources
+C:\Nueva carpeta\ManejoDeArrays_APEv2\Presentacion\obj\Debug\Presentacion.FormEjercicio1.resources
+C:\Nueva carpeta\ManejoDeArrays_APEv2\Presentacion\obj\Debug\Presentacion.FormPresentacion.resources
+C:\Nueva carpeta\ManejoDeArrays_APEv2\Presentacion\obj\Debug\APE.Properties.Resources.resources
+C:\Nueva carpeta\ManejoDeArrays_APEv2\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Nueva carpeta\ManejoDeArrays_APEv2\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Nueva carpeta\ManejoDeArrays_APEv2\Presentacion\obj\Debug\APE.exe.manifest
+C:\Nueva carpeta\ManejoDeArrays_APEv2\Presentacion\obj\Debug\APE.application
+C:\Nueva carpeta\ManejoDeArrays_APEv2\Presentacion\obj\Debug\Presenta.BC77CD05.Up2Date
+C:\Nueva carpeta\ManejoDeArrays_APEv2\Presentacion\obj\Debug\APE.exe
+C:\Nueva carpeta\ManejoDeArrays_APEv2\Presentacion\obj\Debug\APE.pdb

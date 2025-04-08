@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Nueva carpeta\\ManejoDeArrays_APEv2\\",
+  "WorkspaceRootPath": "C:\\ParaGit\\ManejoDeArrays_APEv2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9A906FF6-120F-4535-9B6E-CAB6B4157AE5}|Presentacion\\Presentacion.csproj|c:\\nueva carpeta\\manejodearrays_apev2\\presentacion\\formejercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9A906FF6-120F-4535-9B6E-CAB6B4157AE5}|Presentacion\\Presentacion.csproj|c:\\paragit\\manejodearrays_apev2\\presentacion\\formejercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A906FF6-120F-4535-9B6E-CAB6B4157AE5}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formejercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A906FF6-120F-4535-9B6E-CAB6B4157AE5}|Presentacion\\Presentacion.csproj|C:\\Nueva carpeta\\ManejoDeArrays_APEv2\\presentacion\\formejercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{9A906FF6-120F-4535-9B6E-CAB6B4157AE5}|Presentacion\\Presentacion.csproj|C:\\ParaGit\\ManejoDeArrays_APEv2\\presentacion\\formejercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9A906FF6-120F-4535-9B6E-CAB6B4157AE5}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formejercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97A4627E-A0A9-40D2-8DDA-824737EA05C2}|LogicaNegocio\\LogicaNegocio.csproj|C:\\Nueva carpeta\\ManejoDeArrays_APEv2\\logicanegocio\\qrdecomposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97A4627E-A0A9-40D2-8DDA-824737EA05C2}|LogicaNegocio\\LogicaNegocio.csproj|C:\\ParaGit\\ManejoDeArrays_APEv2\\logicanegocio\\qrdecomposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97A4627E-A0A9-40D2-8DDA-824737EA05C2}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\qrdecomposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "FormEjercicio3.cs",
-              "DocumentMoniker": "C:\\Nueva carpeta\\ManejoDeArrays_APEv2\\Presentacion\\FormEjercicio3.cs",
+              "DocumentMoniker": "C:\\ParaGit\\ManejoDeArrays_APEv2\\Presentacion\\FormEjercicio3.cs",
               "RelativeDocumentMoniker": "Presentacion\\FormEjercicio3.cs",
-              "ToolTip": "C:\\Nueva carpeta\\ManejoDeArrays_APEv2\\Presentacion\\FormEjercicio3.cs",
+              "ToolTip": "C:\\ParaGit\\ManejoDeArrays_APEv2\\Presentacion\\FormEjercicio3.cs",
               "RelativeToolTip": "Presentacion\\FormEjercicio3.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBYAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBgAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-03T18:49:20.91Z",
               "EditorCaption": ""
@@ -41,9 +41,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "QrDecomposition.cs",
-              "DocumentMoniker": "C:\\Nueva carpeta\\ManejoDeArrays_APEv2\\LogicaNegocio\\QrDecomposition.cs",
+              "DocumentMoniker": "C:\\ParaGit\\ManejoDeArrays_APEv2\\LogicaNegocio\\QrDecomposition.cs",
               "RelativeDocumentMoniker": "LogicaNegocio\\QrDecomposition.cs",
-              "ToolTip": "C:\\Nueva carpeta\\ManejoDeArrays_APEv2\\LogicaNegocio\\QrDecomposition.cs",
+              "ToolTip": "C:\\ParaGit\\ManejoDeArrays_APEv2\\LogicaNegocio\\QrDecomposition.cs",
               "RelativeToolTip": "LogicaNegocio\\QrDecomposition.cs",
               "ViewState": "AgIAACsAAAAAAAAAAAAcwBMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -53,10 +53,10 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "FormEjercicio3.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Nueva carpeta\\ManejoDeArrays_APEv2\\Presentacion\\FormEjercicio3.cs",
+              "DocumentMoniker": "C:\\ParaGit\\ManejoDeArrays_APEv2\\Presentacion\\FormEjercicio3.cs",
               "RelativeDocumentMoniker": "Presentacion\\FormEjercicio3.cs",
               "ToolTip": "C:\\Nueva carpeta\\ManejoDeArrays_APEv2\\Presentacion\\FormEjercicio3.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Presentacion\\FormEjercicio3.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\Nueva carpeta\\ManejoDeArrays_APEv2\\Presentacion\\FormEjercicio3.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-03T18:49:17.595Z"
             }
